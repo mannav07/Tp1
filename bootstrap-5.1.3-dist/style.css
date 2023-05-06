@@ -1,0 +1,117 @@
+.fondo{
+    background-color: black;
+}
+
+.logoprin{
+    position: relative;
+    left: 60px;
+    display: block;
+}
+
+.container{
+    height: 10px;
+    background-color: black;
+    position:relative;
+    top:-90px;
+    
+}
+
+.col a {
+    color: aliceblue;
+    text-decoration: none;
+    position: relative;
+    top: 22px;
+    font-family: 'Courier New', Courier, monospace;
+    float: left;
+
+}
+a:hover{
+    text-decoration: underline;
+}
+
+    h1{
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.info{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    height: 100px;
+    padding: 20px;
+    position: relative;
+    bottom: 10px;
+}
+
+.autoria{
+    color: aliceblue;
+    background-color: black;
+    position: relative;
+    text-align: center;
+}
+
+.fondoBus{
+    background-color: black;
+    height:1000px;
+}
+
+.logoBus{
+    position: relative;
+    left: 20px;
+    bottom: 12px;
+    display: block  ;
+}
+
+.buscarViaje{
+    position: absolute;
+    left:790px;
+    top:40px;
+    color: aliceblue;
+}
+
+.recuerde{
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    position: relative;
+    
+}
+
+form{
+    width: 30%;
+    height: 300px;
+    border: 1px solid rgb(0, 0, 0);
+    margin: 20px;
+    padding: 40px;
+    position: relative;
+    top: 10     px;
+    left: 640px;
+    text-align: center;
+    background-color: rgb(56, 56, 56);
+}
+
+label{
+    font-size: 12px;
+    display:block;
+    padding: 5px;
+    margin: 1px;
+    width: 100%;
+    font-family: 'Courier New', Courier, monospace;
+    position: relative;
+    color: aliceblue;
+}
+
+.input, textarea{
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.buscar{
+    position: relative;
+    top: 10px;
+    text-align: center;
+}
+
